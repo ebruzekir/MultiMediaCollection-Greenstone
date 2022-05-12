@@ -1,0 +1,67 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s36.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s36" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s36" gs2:mode="add">
+&lt;pre&gt;
+ LDR 01526ngm  22003615a 4500
+001     11592261
+005     00000000000000.0
+008     920108s1981    xxu080            vlund  
+035    _9 (DLC)   92500347
+906    _a 0
+       _b ibc
+       _c orignew
+       _d u
+       _e ncip
+       _f 19
+       _g y-movingim
+010    _a    92500347 
+007     v| ||||||
+017    _a LP37960
+       _b U.S. Copyright Office
+040    _a DLC
+       _c DLC
+       _e amim
+050 00 _a DAA 0348 (viewing copy)
+050 00 _a DAA 0349 (viewing copy, copy 2)
+245 00 _a Let it be /
+       _c United Artists ; directed by Michael Lindsay-Hogg ;
+ produced by Neil Aspinall.
+260    _a [United States :
+       _b Magnetic Video,
+       _c 1981]
+300    _a 1 videodisc of 1 (laser) (80 min.) :
+       _b sd., col. ;
+       _c 12 in. viewing copy.
+300    _a 1 videodisc of 1 (laser) (80 min.) :
+       _b sd., col. ;
+       _c 12 in. viewing copy (copy 2).
+500    _a Copyright: Apple Films, Ltd.; 13May70; LP37960.
+511 0  _a With: The Beatles.
+500    _a Release date for original: 1970.
+500    _a Reference source used: videodisc jacket.
+541    _d Received: 7-8-83;
+       _3 viewing copies 1 and 2;
+       _c purchase, purchse order no. 0124326;
+       _a LC Purchase Collection.
+700 1  _a Lindsay-Hogg, Michael,
+       _e direction.
+710 2  _a Beatles.
+710 2  _a LC Purchase Collection (Library of Congress)
+       _5 DLC
+655  7 _a Videodiscs.
+       _2 gmgpc
+952    _a Not viewed; may be additional film and/or video material
+ M/B/RS.
+953    _a TE01
+991    _b c-MP&amp;TV
+       _h DAA 0348 (viewing copy)
+       _w MUMS VM File
+991    _b c-MP&amp;TV
+       _h DAA 0349 (viewing copy, copy 2)
+       _w MUMS VM File
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

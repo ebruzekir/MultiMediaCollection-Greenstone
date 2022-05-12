@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\advbeat_small\discography\www.thebeatlesarchive.com\discography\imagesBIG\63UKwiththebeatlesBIG.gif</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">63UKwiththebeatlesBIG.gif</Metadata>
+    <Metadata name="OrigSource">63UKwiththebeatlesBIG.gif</Metadata>
+    <Metadata name="Source">63UKwiththebeatlesBIG.gif</Metadata>
+    <Metadata name="SourceFile">63UKwiththebeatlesBIG.gif</Metadata>
+    <Metadata name="FileFormat">gif</Metadata>
+    <Metadata name="FileSize">1305</Metadata>
+    <Metadata name="ImageType">GIF</Metadata>
+    <Metadata name="ImageWidth">300</Metadata>
+    <Metadata name="ImageHeight">300</Metadata>
+    <Metadata name="ImageSize">1.27KB</Metadata>
+    <Metadata name="srclink_file">63UKwiththebeatlesBIG.gif</Metadata>
+    <Metadata name="srclinkFile">63UKwiththebeatlesBIG.gif</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">63UKwiththebeatlesBIG_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">63UKwiththebeatlesBIG_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Format">Discography</Metadata>
+    <Metadata name="Title">63UKwiththebeatlesBIG</Metadata>
+    <Metadata name="Identifier">HASH0172c83852762bcfd4076821</Metadata>
+    <Metadata name="lastmodified">1652351104</Metadata>
+    <Metadata name="lastmodifieddate">20220512</Metadata>
+    <Metadata name="oailastmodified">1652361712</Metadata>
+    <Metadata name="oailastmodifieddate">20220512</Metadata>
+    <Metadata name="assocfilepath">HASH0172.dir</Metadata>
+    <Metadata name="gsdlassocfile">63UKwiththebeatlesBIG.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">63UKwiththebeatlesBIG_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">63UKwiththebeatlesBIG_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,56 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s34.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s34" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s34" gs2:mode="add">
+&lt;pre&gt;
+ LDR 01178njm  22003137a 4500
+001     5751829
+005     19950304073733.2
+007     sdubsmennmpluu
+008     950303s1977    ncuuun              eng  
+035    _9 (DLC)   95776699
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 3
+       _e ncip
+       _f 19
+       _g y-genmusic
+955    _a vn23
+010    _a    95776699 
+028 00 _a 7904
+       _b Pied Piper Records
+035    _a (OCoLC)32079450 
+040    _a DLC
+       _c DLC
+050 00 _a Pied Piper Records 7904
+245 00 _a Hot as sun
+       _h [sound recording] :
+       _b a tribute to the Beatles.
+260    _a Chapel Hill, N.C. :
+       _b Pied Piper Records,
+       _c p1977.
+300    _a 1 sound disc :
+       _b analog, 33 1/3 rpm, stereo. ;
+       _c 12 in.
+511 0  _a Performed by the Original Marauders, in the style and
+ manner of the Beatles.
+505 0  _a Back in the U.S.S.R. -- I'm happy just to dance with you
+ -- And your bird can sing -- All together now -- I'll keep you
+ satisfied -- Bad to me -- I'll be on my way -- Step inside
+ love.
+500    _a Brief record.
+650  0 _a Rock music.
+710 2  _a Original Marauders (Musical group)
+       _4 prf
+710 2  _a Beatles.
+953    _a TA28
+985    _a 9503
+991    _b c-RecSound
+       _h Pied Piper Records 7904
+       _w MUSIC
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

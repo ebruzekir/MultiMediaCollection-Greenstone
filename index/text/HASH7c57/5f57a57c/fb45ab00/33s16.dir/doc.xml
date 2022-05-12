@@ -1,0 +1,52 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s16.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s16" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s16" gs2:mode="add">
+&lt;pre&gt;
+ LDR 00930cam  2200253 i 4500
+001     2712184
+005     19910502163735.1
+008     760812r19751974nyucf         001 0 eng  
+035    _9 (DLC)   76370457
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 5
+       _e ncip
+       _f 19
+       _g y-gencatlg
+010    _a    76370457 
+020    _b Pbk. :
+       _c $1.75
+040    _a DLC
+       _c DLC
+       _d DLC
+050 00 _a ML54.6.B4
+       _b L9 1975
+240 04 _a The Beatles lyrics complete
+245 04 _a The Beatles lyrics illustrated /
+       _c introduction by Richard Brautigan.
+260    _a New York :
+       _b Dell Pub. Co.,
+       _c 1975.
+300    _a 208 p., [32] leaves of plates :
+       _b 104 ports. ;
+       _c 18 cm.
+500    _a First ed. published in 1974 under title: The Beatles
+ lyrics complete.
+500    _a Includes index.
+505 0  _a Beatlemania (1962-5)--The Sergeants' mystery tour
+ (1965-8)--The Apple years (1968-70)
+650  0 _a Rock music
+       _x Texts.
+710 2  _a Beatles.
+991    _b c-Music
+       _h ML54.6.B4
+       _i L9 1975
+       _t Copy 1
+       _w BOOKS
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

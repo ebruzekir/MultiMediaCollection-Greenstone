@@ -1,0 +1,59 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s13.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s13" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s13" gs2:mode="add">
+&lt;pre&gt;
+ LDR 00962cam  2200289 a 4500
+001     1629690
+005     20020731144437.0
+008     951212s1978    enka          000 0ceng  
+035    _9 (DLC)   95233484
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 2
+       _e ncip
+       _f 19
+       _g y-gencatlg
+955    _a uc16 to cat 12-12-95; vl00 02-15-96; vl19 03-26-96; vl16
+ 04-03-98
+010    _a    95233484 
+020    _a 0860015408
+040    _a DLC
+       _c DLC
+       _d DLC
+043    _a e-uk-en
+050 00 _a ML421.B4
+       _b B43 1978b
+082 00 _a 782.42166/092/2
+       _a B
+       _2 20
+245 00 _a Beatles in their own words /
+       _c compiled by Miles ; edited by Pearce Marchbank ;
+ designed by Perry Neville.
+260    _a London ;
+       _a New York :
+       _b Omnibus Press,
+       _c c1978.
+300    _a 125 p. :
+       _b ill. ;
+       _c 26 cm.
+610 20 _a Beatles.
+650  0 _a Rock musicians
+       _z England
+       _x Biography.
+700 1  _a Miles, Barry,
+       _d 1943-
+700 1  _a Marchbank, Pearce.
+710 2  _a Beatles.
+922    _a cf
+991    _b c-Music
+       _h ML421.B4
+       _i B43 1978b
+       _t Copy 1
+       _w BOOKS
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/W10/Greenstone3/web/sites/localsite/collect/multimed/tmp/1652361763_1/beatles-1.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/W10/Greenstone3/web/sites/localsite/collect/multimed/tmp/1652361763_1/beatles-1.html</Metadata>
+    <Metadata name="Title">beatles-1</Metadata>
+    <Metadata name="gsdlsourcefilename">import\advbeat_small\wordpdf\beatles-1.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1652361763_1\beatles-1.html</Metadata>
+    <Metadata name="OrigSource">beatles-1.html</Metadata>
+    <Metadata name="Source">beatles-1.pdf</Metadata>
+    <Metadata name="SourceFile">beatles-1.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">627782</Metadata>
+    <Metadata name="FilenameRoot">beatles-1</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Format">Supplementary</Metadata>
+    <Metadata name="Identifier">HASH098bb8ee31c89ddcaa0911</Metadata>
+    <Metadata name="lastmodified">1652351093</Metadata>
+    <Metadata name="lastmodifieddate">20220512</Metadata>
+    <Metadata name="oailastmodified">1652361764</Metadata>
+    <Metadata name="oailastmodifieddate">20220512</Metadata>
+    <Metadata name="assocfilepath">HASH098b.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f89 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p1f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:125px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Let It Be...Naked&lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;which is scheduled for release on November 17, removes producer &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Phil Spector&lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'s&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:136px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;orchestrations, choirs and effects from the album to its original, intended low-tech version. The only&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:148px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;“outside” musician featured on the album was keyboardist &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Billy Preston. &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Otherwise, all instruments were&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:159px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;played by &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;the Beatles &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;without the support of studio musicians.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:185px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;For over 30 years, &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Paul McCartney &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;has voiced his displeasure with &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Phil Spector’s &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;production,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:196px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;particularly the orchestration on the track “&lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Long And Winding Road&lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.”&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:222px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The majority of &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Let It Be &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;was recorded in 1969 for an album and film project, originally called &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Get Back&lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:233px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;showing &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;returning to their roots as a four-piece rock-and-roll band.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:259px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The album was initially titled &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Get Back, Don’t Let Me Down and Nine Others&lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;. The album title was&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:270px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;changed to &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Get Back &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;when &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;the Beatles &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;consented to film the sessions for a documentary, which would&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:282px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;fulfill their three-movie deal with &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;United Artists&lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;. The first two movies were &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;A Hard Days Night &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;and &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Help.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:307px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;However, the group was falling apart and the album project was abandoned. Shortly thereafter, &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;the&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:319px;&quot;&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Beatles &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;completed their final album, &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Abbey Road.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:344px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;After the &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Beatles’ &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;breakup, &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;John Lennon &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;turned the tapes over to producer &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Phil Spector &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;to complete&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:356px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;the &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Let It Be &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;album.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:381px;&quot;&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Spector's &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;production was undertaken after the group had broken up became a cause of anger to &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Paul&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:393px;&quot;&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;McCartney&lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, who took exception to the string arrangement on &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;“The Long and Winding Road&amp;quot; &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;and the&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:404px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;additional music and mixes &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Spector &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;added to the other tracks.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:430px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The new release also features changes to the original track listing. The tracks &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;“Dig It” &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;and “&lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Maggie Mae”&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:441px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;are not on the &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Let It Be…Naked &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;album and &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;“Don't Let Me Down” &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;is added.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:74px; top:467px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The new track listing reads:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:492px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'Get Back'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:504px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'Dig A Pony'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:515px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'For You Blue'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:527px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'The Long And Winding Road'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:538px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'Two Of Us'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:550px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'I've Got A Feeling'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:561px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'One After 909'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:573px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'Don't Let Me Down'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:584px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'I Me Mine'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:596px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'Across The Universe'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:607px;&quot;&gt;&lt;span class=&quot;p1f89&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;'Let It Be'&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:633px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The album will be issued together with a bonus disc that features tapes of &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;the Beatles &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;rehearsing and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:644px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;discussing the album, which were captured on film for the making of the &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Let It Be &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;movie in the late '60s.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:667px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The package will also include booklet featuring photos of the recording sessions and extracts of &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Beatles’&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:679px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;dialogue from the original booklet that accompanied early British-released copies of the album, which was&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:690px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;released in 1970.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

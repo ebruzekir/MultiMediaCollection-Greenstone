@@ -1,0 +1,51 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s40.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s40" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s40" gs2:mode="add">
+&lt;pre&gt;
+ LDR 00822njm  22003017a 4500
+001     5787722
+005     19970617093519.0
+007     sdufungnnmmned
+008     970617s1996    cauuun              eng  
+035    _9 (DLC)   97750602
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 3
+       _e ncip
+       _f 19
+       _g y-genmusic
+955    _a vn30
+010    _a    97750602 
+028 00 _a DPRO-11187
+       _b Apple
+035    _a (OCoLC)37135390 
+040    _a DLC
+       _c DLC
+050 00 _a Apple DPRO-11187
+245 00 _a Real love
+       _h [sound recording].
+260    _a [S.l.] :
+       _b Apple,
+       _c p1996.
+300    _a 1 sound disc :
+       _b digital ;
+       _c 4 3/4 in.
+511 0  _a Performed by the Beatles.
+505 0  _a Real love.
+500    _a Brief record.
+650  0 _a Rock music
+       _y 1971-1980.
+710 2  _a Beatles.
+       _4 prf
+953    _a TA28
+985    _a 9706
+991    _b c-RecSound
+       _h Apple DPRO-11187
+       _w MUSIC
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

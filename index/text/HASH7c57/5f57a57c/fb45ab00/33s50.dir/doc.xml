@@ -1,0 +1,53 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s50.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s50" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s50" gs2:mode="add">
+&lt;pre&gt;
+ LDR 01064njm  2200313 a 4500
+001     5735623
+005     19950501154350.2
+007     ssulsnjlcnnncu
+008     950501s1985    nyuuun              eng  
+035    _9 (DLC)   95702292
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 5
+       _e ncip
+       _f 19
+       _g y-genmusic
+010    _a    95702292 
+028 00 _a PS 005
+       _b Pocket Songs
+040    _a DLC
+       _c DLC
+050 00 _a RZA 3880
+245 00 _a You sing The Beatles.
+       _n 1
+       _h [sound recording].
+260    _a Irvington, N.Y. :
+       _b Pocket Songs,
+       _c p1985.
+300    _a 1 sound cassette :
+       _b analog, stereo., Dolby processed.
+440  0 _a You sing the hits
+500    _a Renditions not by the original artists.
+500    _a Side B has background version of songs in reverse
+ order.
+500    _a Lyrics enclosed.
+505 0  _a She loves you -- Love me do -- All my lovin' -- We can
+ work it out -- Hard day's night -- I feel fine.
+500    _a Brief record.
+650  0 _a Recorded accompaniments.
+650  0 _a Rock music
+       _y 1961-1970.
+710 2  _a Beatles.
+953    _a TA28
+991    _b c-RecSound
+       _h RZA 3880
+       _w MUSIC
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

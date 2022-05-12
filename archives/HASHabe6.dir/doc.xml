@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/W10/Greenstone3/web/sites/localsite/collect/multimed/tmp/1652361771/beatles_tab.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/W10/Greenstone3/web/sites/localsite/collect/multimed/tmp/1652361771/beatles_tab.html</Metadata>
+    <Metadata name="Title">beatles_tab</Metadata>
+    <Metadata name="gsdlsourcefilename">import\advbeat_small\wordpdf\beatles_tab.pdf</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1652361771\beatles_tab.html</Metadata>
+    <Metadata name="OrigSource">beatles_tab.html</Metadata>
+    <Metadata name="Source">beatles_tab.pdf</Metadata>
+    <Metadata name="SourceFile">beatles_tab.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">16591</Metadata>
+    <Metadata name="FilenameRoot">beatles_tab</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Format">Supplementary</Metadata>
+    <Metadata name="Identifier">HASHabe69587df1b7deac20c6b</Metadata>
+    <Metadata name="lastmodified">1652351092</Metadata>
+    <Metadata name="lastmodifieddate">20220512</Metadata>
+    <Metadata name="oailastmodified">1652361772</Metadata>
+    <Metadata name="oailastmodifieddate">20220512</Metadata>
+    <Metadata name="assocfilepath">HASHabe6.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 842px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:serif; font-weight:bold; font-style:normal; }
+.p1f3 { font-family:serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;842&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:22px; top:92px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;1 &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:sub;color:rgba(0,0,0,1);&quot;&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:81px; top:120px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:76px; top:146px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Gtr I&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:32px; top:163px;&quot;&gt;&lt;span class=&quot;p1f2&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;T&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:32px; top:174px;&quot;&gt;&lt;span class=&quot;p1f2&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;A&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:32px; top:185px;&quot;&gt;&lt;span class=&quot;p1f2&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;B&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:81px; top:190px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;0&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:186px; top:40px;&quot;&gt;&lt;span class=&quot;p1f2&quot; style=&quot;font-size:22px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;RIFF - DAY TRIPPER&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:197px; top:65px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;As recorded by The Beatles&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:136px; top:105px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+ &amp;lt;+ &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;+ +&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:204px; top:107px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:232px; top:96px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+8&amp;lt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:277px; top:96px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:273px; top:111px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:286px; top:107px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:300px; top:105px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:327px; top:114px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:382px; top:98px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+ &amp;lt;+ &lt;/span&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:super;color:rgba(0,0,0,1);&quot;&gt;+ +&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:450px; top:101px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:482px; top:90px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:478px; top:105px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:491px; top:96px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:523px; top:90px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:519px; top:105px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:533px; top:101px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:546px; top:98px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:17px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;+&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:177px; top:177px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:204px; top:177px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;0&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:245px; top:177px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:286px; top:177px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;02&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:163px; top:184px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:232px; top:184px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:273px; top:184px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:327px; top:184px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;0&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:136px; top:190px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;34&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:423px; top:171px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:451px; top:171px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;0&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:492px; top:171px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:533px; top:171px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;02&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:410px; top:177px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:478px; top:177px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:519px; top:177px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:382px; top:184px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;34&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:27px; top:798px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Sun, Apr 06, 2003, 02:25 PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:175px; top:798px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:6px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Generated using the Power Tab Editor by Brad Larsen. http://powertab.guitarnetwork.org&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

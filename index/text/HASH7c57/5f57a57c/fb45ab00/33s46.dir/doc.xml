@@ -1,0 +1,62 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s46.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s46" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s46" gs2:mode="add">
+&lt;pre&gt;
+ LDR 00987cam  2200289 a 4500
+001     4192096
+005     19900618170644.9
+008     810520s1980    miuh     b    000 0 eng  
+035    _9 (DLC)   80083203
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 2
+       _e opcn
+       _f 19
+       _g y-gencatlg
+010    _a    80083203 
+020    _a 0876501048
+040    _a DLC
+       _c DLC
+       _d DLC
+043    _a e-uk-en
+050 00 _a ML54.6
+       _b .T37
+082 00 _a 784.5/405
+       _2 19
+245 00 _a Things we said today :
+       _b the complete lyrics and a concordance to the Beatles'
+ songs, 1962-1970 /
+       _c by Colin Campbell and Allan Murphy.
+260    _a [Ann Arbor, MI] :
+       _b Pierian Press,
+       _c 1980.
+300    _a xlii, 386 p. :
+       _b facsims. ;
+       _c 29 cm.
+504    _a Discographies: p. 381-386.
+650  0 _a Popular music
+       _z England
+       _x Texts.
+650  0 _a Popular music
+       _z England
+       _x Texts
+       _x Concordances.
+610 20 _a Beatles.
+700 1  _a Campbell, Colin,
+       _d 1940-
+700 1  _a Murphy, Allan
+       _q (Allan R.)
+710 2  _a Beatles.
+991    _b c-Music
+       _h ML54.6
+       _i .T37
+       _t Copy 1
+       _m Case
+       _w BOOKS
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

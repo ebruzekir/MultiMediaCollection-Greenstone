@@ -1,0 +1,50 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s11.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s11" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s11" gs2:mode="add">
+&lt;pre&gt;
+ LDR 00850cam  2200241 i 4500
+001     4612648
+005     19850827000000.0
+008     770623s1977    nyua          000 0 eng  
+035    _9 (DLC)   77022792
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 1
+       _e ocip
+       _f 19
+       _g y-gencatlg
+010    _a    77022792 
+020    _a 0877540128
+040    _a DLC
+       _c DLC
+       _d DLC
+050 00 _a PN1997.H2593
+       _b B4
+082 00 _a 791.43/7
+245 04 _a The Beatles in Richard Lester's A hard day's night :
+       _b a complete pictorial record of the movie /
+       _c editor, J. Philip Di Franco ; introd., Andrew
+ Sarris.
+260    _a New York :
+       _b Chelsea House Publishers,
+       _c 1977.
+300    _a xvi, 297 p. :
+       _b ill. ;
+       _c 29 cm.
+630  0 _a Hard day's night. [Motion picture]
+700 1  _a Lester, Richard,
+       _d 1932-
+710 2  _a Beatles.
+700 1  _a Di Franco, J. Philip.
+991    _b c-GenColl
+       _h PN1997.H2593
+       _i B4
+       _t Copy 1
+       _w BOOKS
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

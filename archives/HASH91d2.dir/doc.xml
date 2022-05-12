@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">tmp\advbeat_small\beatles_midi\Yesterday.mid</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">UnknownPlugin</Metadata>
+    <Metadata name="FileSize">13433</Metadata>
+    <Metadata name="Source">Yesterday.mid</Metadata>
+    <Metadata name="SourceFile">Yesterday.mid</Metadata>
+    <Metadata name="FileFormat">MIDI</Metadata>
+    <Metadata name="MimeType">audio/midi</Metadata>
+    <Metadata name="unknown_file">Yesterday.mid</Metadata>
+    <Metadata name="srclink_file">Yesterday.mid</Metadata>
+    <Metadata name="srclinkFile">Yesterday.mid</Metadata>
+    <Metadata name="srcicon">_iconunknown_</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Format">Audio</Metadata>
+    <Metadata name="gsdlzipfilename">import\advbeat_small\beatles_midi.zip</Metadata>
+    <Metadata name="Title">Yesterday</Metadata>
+    <Metadata name="Identifier">HASH91d274d52b247e82f67168</Metadata>
+    <Metadata name="lastmodified">1652351092</Metadata>
+    <Metadata name="lastmodifieddate">20220512</Metadata>
+    <Metadata name="oailastmodified">1652361707</Metadata>
+    <Metadata name="oailastmodifieddate">20220512</Metadata>
+    <Metadata name="assocfilepath">HASH91d2.dir</Metadata>
+    <Metadata name="gsdlassocfile">Yesterday.mid:audio/midi:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

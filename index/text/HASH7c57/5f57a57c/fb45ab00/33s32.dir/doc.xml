@@ -1,0 +1,115 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s32.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s32" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s32" gs2:mode="add">
+&lt;pre&gt;
+ LDR 02908cgm  22006017a 4500
+001     11671072
+005     19991122121438.0
+007     vdubgaizu
+007     vdubgaizu
+008     960325s1987    xxk090            vleng d
+035    _9 (DLC)   96505748
+906    _a 7
+       _b cbc
+       _c copycat
+       _d u
+       _e ncip
+       _f 19
+       _g y-movingim
+010    _a    96505748 
+017    _a LP28626
+       _b U.S. Copyright Office
+035    _a (CSt)notisACP8002
+035    _a (CStRLIN)CSUG90-F860
+040    _a CSt
+       _c CSt
+       _d CStRLIN
+       _d DLC
+042    _a lccopycat
+050 00 _a DAA 0814 (viewing copy)
+050 00 _a DAA 1138 (viewing copy, copy 2)
+245 02 _a A hard day's night /
+       _c United Artist ; director, Richard Lester ; producer,
+ Walter Shenson ; writer, Alun Owen.
+246 0  _i Title on disc jacket:
+       _a Beatles in A hard day's night
+257    _a U.K.
+260    _a Great Britain :
+       _b United Artist,
+       _c 1964 ;
+       _a United States :
+       _b United Artist,
+       _c 1964 ;
+       _a United States :
+       _b Voyager Company,
+       _c 1987.
+300    _a 2 videodiscs of 2 (laser) (90 min.) :
+       _b sd., b&amp;w ;
+       _c 12 in. viewing copy.
+300    _a 2 videodiscs of 2 (laser) (90 min.) :
+       _b sd., b&amp;w ;
+       _c 12 in. viewing copy (copy 2).
+440  0 _a Criterion collection ;
+       _v 20
+500    _a Copyright: Proscenium Films, Ltd.; 6Jul64; LP28626.
+500    _a Copyright notice on videodisc jacket: 1964 Proscenium
+ Films, Ltd. ; 1987 The Criterion Collection.
+508    _a Musical director, George Martin.
+511 0  _a John Lennon, Paul McCartney, George Harrison, Ringo
+ Starr.
+500    _a Originally produced as motion picture in 1964.
+520    _a Harassed by their manager and Paul's grandpa, the Beatles
+ embark from Liverpool by train for a London TV show.
+500    _a Includes special features: Richard Lester's first film:
+ The running jumping &amp; standing still film; video interview with
+ Richard Lester; theatrical trailer.
+500    _a On disc jacket:  CC1113L.
+500    _a Sources used: videodisc jacket; New York times film
+ review, 8/12/64; The films of Richard Lester, 1985, p. 164;
+ Catalog of copyright entries, motion pictures, 1960-1969, p.
+ 239.
+541    _d Received: bet. 1982 and 1990;
+       _3 viewing copy;
+       _c purchase;
+       _a LC Purchase Collection.
+541    _d Received: 9/90;
+       _3 viewing copy, copy 2;
+       _c copyright deposit--407;
+       _a Copyright Collection.
+610 20 _a Beatles
+       _x Drama.
+655  7 _a Features.
+       _2 mim
+655  7 _a Musicals.
+       _2 mim
+700 1  _a Lester, Richard,
+       _d 1932-
+       _e direction.
+700 1  _a Shenson, Walter,
+       _e production.
+700 1  _a Owen, Alun,
+       _d 1930-
+       _e writing.
+700 1  _a Martin, George,
+       _d 1926-
+       _e music.
+710 2  _a Voyager Company.
+710 2  _a Janus Films.
+710 2  _a Beatles.
+710 2  _a LC Purchase Collection (Library of Congress)
+       _5 DLC
+710 2  _a Copyright Collection (Library of Congress)
+       _5 DLC
+953    _a TE01
+991    _b c-MP&amp;TV
+       _h DAA 0814 (viewing copy)
+       _w MUMS VM File
+991    _b c-MP&amp;TV
+       _h DAA 1138 (viewing copy, copy 2)
+       _w MUMS VM File
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

@@ -1,0 +1,58 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s37.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s37" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s37" gs2:mode="add">
+&lt;pre&gt;
+ LDR 01194cjm  22003017a 4500
+001     5719999
+005     19941013102521.1
+007     sduzsnznnmlneu
+008     941012s1991    xx uun              eng  
+035    _9 (DLC)   94761339
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 3
+       _e ncip
+       _f 19
+       _g y-genmusic
+955    _a vn33
+010    _a    94761339 
+028 00 _a BUR 9103
+       _b Multi Coloured Music
+035    _a (OCoLC)31273712 
+040    _a DLC
+       _c DLC
+       _d DLC
+050 00 _a Multi Coloured Music BUR 9103
+245 00 _a Live performances
+       _h [sound recording] :
+       _b 1962-1963.
+260    _a [S.l.] :
+       _b Multi Coloured Music,
+       _c p1991.
+300    _a 1 sound disc :
+       _b digital ;
+       _c 4 3/4 in.
+511 0  _a Beatles.
+505 0  _a Besame mucho -- How do you do it -- One afther [sic] 909
+ -- I be on my way -- Some other guy -- Too much monkey business
+ -- I got to find my baby -- Youngblood -- A shot of rhythm and
+ blues -- Sure to fall -- That's allright mama -- Carol --
+ Soldier of love -- Lend me your comb -- Clarabel[l]a -- Sweet
+ little sixteen.
+500    _a Brief record.
+650  0 _a Rock music
+       _y 1961-1970.
+710 2  _a Beatles.
+       _4 prf
+953    _a TA28
+985    _a 9410
+991    _b c-RecSound
+       _h Multi Coloured Music BUR 9103
+       _w MUSIC
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

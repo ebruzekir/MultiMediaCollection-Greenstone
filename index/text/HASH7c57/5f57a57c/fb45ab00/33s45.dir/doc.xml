@@ -1,0 +1,57 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s45.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s45" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s45" gs2:mode="add">
+&lt;pre&gt;
+ LDR 01044cam  2200289 a 4500
+001     2123138
+005     20021119081139.0
+008     970501s1998    maua          001 0ceng  
+035    _9 (DLC)   97002579
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 1
+       _e ocip
+       _f 19
+       _g y-gencatlg
+955    _a pc01 to VP00 05-01-97; vk06 05-01-97; vk05 05-02-97; CIP
+ ver. vl16 02-20-01; vl20 to BCCD 02-20-01
+       _e vl20 2001-12-12 2nd copy to BCCD
+010    _a    97002579 
+020    _a 1558506381 (paperback : alk. paper)
+040    _a DLC
+       _c DLC
+       _d DLC
+043    _a e-uk-en
+050 00 _a ML421.B4
+       _b A5 1997
+082 00 _a 782.42166/092/2
+       _a B
+       _2 21
+245 00 _a Things we said today :
+       _b conversations with the Beatles /
+       _c Geoffrey and Brenda Giuliano.
+260    _a Holbrook, MA :
+       _b Adams Media,
+       _c c1998.
+300    _a xiii, 274 p. :
+       _b ill. ;
+       _c 24 cm.
+500    _a Includes index.
+610 20 _a Beatles
+       _v Interviews.
+650  0 _a Rock musicians
+       _z England
+       _v Interviews.
+650  0 _a Rock musicians
+       _z England
+       _v Quotations.
+700 1  _a Giuliano, Geoffrey.
+700 1  _a Devi, Vrnda.
+710 2  _a Beatles.
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>

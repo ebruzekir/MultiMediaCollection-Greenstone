@@ -1,0 +1,66 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH7c57\5f57a57c\fb45ab00\33s23.dir\doc.xml"  gs2:docOID="HASH7c575f57a57cfb45ab0033s23" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH7c575f57a57cfb45ab0033s23" gs2:mode="add">
+&lt;pre&gt;
+ LDR 01258cam  2200373 a 4500
+001     602604
+005     19910710161242.0
+008     910213s1989    ck af    bkq  001 0 spa  
+035    _9 (DLC)   91117848
+906    _a 7
+       _b cbc
+       _c orignew
+       _d 4
+       _e ncip
+       _f 19
+       _g y-gencatlg
+955    _a vk13 02-28-91; vk90, 04-17-91
+010    _a    91117848 
+040    _a DLC
+       _c DLC
+       _d DLC
+041 1  _a spa
+       _h eng
+043    _a e-uk-en
+050 00 _a ML54.6
+       _b .B39 1989
+082 00 _a 782.42164/0268
+       _2 20
+245 04 _a The Beatles :
+       _b versiones libres /
+       _c compilado y comentado por Gustavo Gómez Córdoba.
+250    _a [1. ed.].
+260    _a [Bogotá, Colombia :
+       _b s.n.,
+       _c 1989]
+300    _a 289 p., [9] p. of plates :
+       _b ill. (some col.) ;
+       _c 27 cm.
+500    _a Spanish translations of 211 Beatles song texts.
+504    _a Discography: p. 237-253.
+504    _a Filmography: p. 260-263.
+504    _a Includes bibliographical references (p. 279).
+500    _a Includes index.
+500    _a Errata slip inserted.
+650  0 _a Popular music
+       _z England
+       _y 1961-1970
+       _x Texts
+       _x Translations into Spanish.
+610 20 _a Beatles.
+700 2  _a Gómez Córdoba, Gustavo.
+710 2  _a Beatles.
+922    _a ap
+952    _a *vk06 140 07-10-91
+991    _b c-Music
+       _h ML54.6
+       _i .B39 1989
+       _t Copy 1
+       _m Case
+       _w BOOKS
+&lt;/pre&gt;
+ 
+</Sec>
+
+
+</Doc>
